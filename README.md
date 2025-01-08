@@ -1,6 +1,6 @@
 ## About
 
-On my GitHub, I typically release tools that I develop to solve problems I've encountered or to practice/experiment with different software concepts. Currently, I am a Networking Engineering & Security student so my main focus is on the IT domain and I mainly work with Python. I try to support both Windows and Linux for my projects.
+On my GitHub, I typically release tools that I've developed to solve problems I've encountered or to practice/experiment with different concepts. Currently, I am a Networking Engineering & Security student so my main focus is on the IT domain and I mainly work with Python. I try to support both Windows and Linux for my projects.
 
 ## Development Toolkit
 
@@ -15,6 +15,12 @@ On my GitHub, I typically release tools that I develop to solve problems I've en
 <div display="inline-block">
   <img src="https://img.shields.io/badge/Git_Client-GitKraken-%23087d72?style=flat-square" alt="GitKraken Git Client">
   <img src="https://img.shields.io/badge/DevOps-GitHub_Workflow-%232b3137?style=flat-square" alt="DevOps GitHub Workflow">
+</div>
+
+<div display="inline-block">
+  <img src="https://img.shields.io/badge/OS_Platform-Windows_10-%23357EC7?style=flat-square" alt="Windows 10 OS">
+  <img src="https://img.shields.io/badge/OS_Platform-Linux-%23072C61?style=flat-square" alt="Linux OS">
+  <img src="https://img.shields.io/badge/VM_Manager-VirtualBox-%23ee8f11?style=flat-square" alt="VirtualBox VM Manager">
 </div>
 
 ## Certifications
