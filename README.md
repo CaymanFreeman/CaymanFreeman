@@ -13,9 +13,7 @@ On my GitHub, I typically release tools that I develop to solve problems I've en
 </div>
 
 <div display="inline-block">
-  <img src="https://img.shields.io/badge/VCS-Git-%23087d72?style=flat-square" alt="Git VCS">
   <img src="https://img.shields.io/badge/Git_Client-GitKraken-%23087d72?style=flat-square" alt="GitKraken Git Client">
-  <img src="https://img.shields.io/badge/Remote_VCS-GitHub-%232b3137?style=flat-square" alt="GitHub Remote VSC">
   <img src="https://img.shields.io/badge/DevOps-GitHub_Workflow-%232b3137?style=flat-square" alt="DevOps GitHub Workflow">
 </div>
 
