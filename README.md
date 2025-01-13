@@ -5,11 +5,11 @@ On my GitHub, I typically release tools that I've developed to solve problems I'
 ## Development Toolkit
 
 <div display="inline-block">
-  <img src="https://img.shields.io/badge/Language-Python-brightgreen?style=flat-square" alt="Python Programming Language">
-  <img src="https://img.shields.io/badge/IDE-PyCharm-brightgreen?style=flat-square" alt="PyCharm IDE">
-  <img src="https://img.shields.io/badge/Python_Formatter-Black-brightgreen?style=flat-square" alt="Black Python Formatter">
-  <img src="https://img.shields.io/badge/Python_Linter-Pylint-brightgreen?style=flat-square" alt="Pylint Python Linter">
-  <img src="https://img.shields.io/badge/Python_Type_Checker-MyPy-brightgreen?style=flat-square" alt="MyPy Python Type Checker">
+  <img src="https://img.shields.io/badge/Language-Python-%233f7cad?style=flat-square" alt="Python Programming Language">
+  <img src="https://img.shields.io/badge/IDE-PyCharm-%233f7cad?style=flat-square" alt="PyCharm IDE">
+  <img src="https://img.shields.io/badge/Python_Formatter-Black-%233f7cad?style=flat-square" alt="Black Python Formatter">
+  <img src="https://img.shields.io/badge/Python_Linter-Pylint-%233f7cad?style=flat-square" alt="Pylint Python Linter">
+  <img src="https://img.shields.io/badge/Python_Type_Checker-MyPy-%233f7cad?style=flat-square" alt="MyPy Python Type Checker">
 </div>
 
 <div display="inline-block">
@@ -18,7 +18,7 @@ On my GitHub, I typically release tools that I've developed to solve problems I'
 </div>
 
 <div display="inline-block">
-  <img src="https://img.shields.io/badge/OS_Platform-Windows_10-%23357EC7?style=flat-square" alt="Windows 10 OS">
+  <img src="https://img.shields.io/badge/OS_Platform-Windows_10-%23f65314?style=flat-square" alt="Windows 10 OS">
   <img src="https://img.shields.io/badge/OS_Platform-Linux-%23072C61?style=flat-square" alt="Linux OS">
   <img src="https://img.shields.io/badge/VM_Manager-VirtualBox-%23ee8f11?style=flat-square" alt="VirtualBox VM Manager">
 </div>
