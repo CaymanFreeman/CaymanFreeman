@@ -1,6 +1,6 @@
 ## About
 
-On my GitHub, I typically release tools that I've developed to solve problems I've encountered or to practice/experiment with different concepts. Currently, I am a Networking Engineering & Security student so my main focus is on the IT domain and I mainly work with Python. I try to support both Windows and Linux for my projects.
+On my GitHub, I typically release tools that I've developed to solve problems I've encountered or to practice/experiment with different concepts. Currently, I am a Networking Engineering & Security student so my main focus is on tool development and I mainly am learning and working with Python and Rust. I try to support both Windows and Linux for my projects.
 
 ## Development Toolkit
 
