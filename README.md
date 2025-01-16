@@ -28,7 +28,7 @@ On my GitHub, I typically release tools that I’ve developed to solve problems 
 ## Certifications
 
 <div display="inline-block">
-  <img src="https://img.shields.io/badge/ITIL_v4_Foundations-%238f63e5?style=flat-square" alt="ITIL v4 Foundation">
+  <a href="https://www.axelos.com/certifications/itil-service-management/itil-4-foundation/"><img src="https://img.shields.io/badge/ITIL_v4_Foundations-%238f63e5?style=flat-square" alt="ITIL v4 Foundation"></a>
   <a href="https://lpi.org/v/LPI000636646/7h3k4b42u9"><img src="https://img.shields.io/badge/LPI_Linux_Essentials%2B-%23ffc20f?style=flat-square" alt="LPI Linux Esssentials"></a>
   <a href="https://www.credly.com/badges/8ee58a58-1cf6-4af9-a43f-91c603f4e99c"><img src="https://img.shields.io/badge/CompTIA_A%2B-%23c8202f?style=flat-square" alt="CompTIA A+"></a>
   <a href="https://www.credly.com/badges/f62ea43c-8628-40c3-bd20-28b676f99a1d"><img src="https://img.shields.io/badge/CompTIA_Security%2B-%23c8202f?style=flat-square" alt="CompTIA Security+"></a>
@@ -39,12 +39,12 @@ On my GitHub, I typically release tools that I’ve developed to solve problems 
 The following are certifications that I will have obtained by the time I finish my degree:
 
 <div display="inline-block">
-  <img src="https://img.shields.io/badge/Cisco_Certified_Network_Associate-%23049fd9?style=flat-square" alt="Cisco Certified Network Associate">
-  <img src="https://img.shields.io/badge/Cisco_Cybersecurity_Fundamentals-%23049fd9?style=flat-square" alt="Cisco Cybersecurity Fundamentals">
-  <img src="https://img.shields.io/badge/Cisco_DevNet_Associate-%23049fd9?style=flat-square" alt="Cisco DevNet Associate">
+  <a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html"><img src="https://img.shields.io/badge/Cisco_Network_Associate_(CCNA)-%23049fd9?style=flat-square" alt="Cisco Network Associate (CCNA)"></a>
+  <a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/cyberops/cyberops-associate/index.html"><img src="https://img.shields.io/badge/Cisco_CyberOps_Associate-%23049fd9?style=flat-square" alt="Cisco CyberOps Associate"></a>
+  <a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/devnet/associate/index.html"><img src="https://img.shields.io/badge/Cisco_DevNet_Associate-%23049fd9?style=flat-square" alt="Cisco DevNet Associate"></a>
 </div>
 
 <div display="inline-block">
-  <img src="https://img.shields.io/badge/CompTIA_Cloud%2B-%23c8202f?style=flat-square" alt="CompTIA Cloud+">
-  <img src="https://img.shields.io/badge/CompTIA_Project%2B-%23c8202f?style=flat-square" alt="CompTIA Project+">
+  <a href=""><img src="https://img.shields.io/badge/CompTIA_Cloud%2B-%23c8202f?style=flat-square" alt="CompTIA Cloud+"></a>
+  <a href=""><img src="https://img.shields.io/badge/CompTIA_Project%2B-%23c8202f?style=flat-square" alt="CompTIA Project+"></a>
 </div>
