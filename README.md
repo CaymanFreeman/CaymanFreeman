@@ -2,7 +2,7 @@
 
 On my GitHub, I typically release tools that I’ve developed to solve problems I’ve encountered or to practice and experiment with different concepts. I primarily work with Python and Rust and I try to support both Windows and Linux for my projects.
 
-Although my formal academic focus is network engineering, I also have interests in many related fields, including systems and application development, data analysis, and cryptography. Over time, this might show through in my work.
+Although my formal academic focus is network engineering, I also have interests in many related fields, including systems and application development, game development, data analysis, and cryptography. Over time, this might show through in my work.
 
 ## Development Toolkit
 
