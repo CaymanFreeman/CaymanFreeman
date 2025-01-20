@@ -2,7 +2,7 @@
 
 On my GitHub, I typically release tools that I’ve developed to solve problems I’ve encountered or to practice and experiment with different concepts. I primarily work with Python and Rust and I try to support both Windows and Linux for my projects.
 
-Although my academic focus is network engineering, I have interests in other areas including application development, game development, data analysis, and cryptography.
+Although my academic focus is network engineering, I also have interests in other areas including application development, game development, data analysis, and cryptography.
 
 ## Development Toolkit
 
