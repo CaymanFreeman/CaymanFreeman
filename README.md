@@ -1,8 +1,8 @@
 ## About
 
-On my GitHub, I typically release tools that I’ve developed to solve problems I’ve encountered or to practice and experiment with different concepts. I primarily work with Python and Rust and I try to support both Windows and Linux for my projects.
+On my GitHub, I typically release games to experiment with game development or tools I've developed that might be helpful to someone else. I primarily work with Python and Rust.
 
-Although my academic focus is network engineering, I also have interests in other areas including application development, game development, data analysis, and cryptography.
+Although my academic focus is network engineering, I also have interests in other areas, including application development, game development, data analysis, and cryptography. I will most likely be working on projects related to these interests.
 
 ## Development Toolkit
 
