@@ -1,6 +1,6 @@
 ## About
 
-On my GitHub, I typically release games to experiment with game development or tools I've developed that might be helpful to someone else. I primarily work with Python and Rust.
+On my GitHub, I typically release experimental/learning projects I've been working on or tools I've developed that might be helpful to someone else. I primarily work with Python and Rust.
 
 Although my academic focus is network engineering, I also have interests in other areas, including application development, game development, data analysis, and cryptography. I will most likely be working on projects related to these interests.
 
@@ -10,6 +10,7 @@ Although my academic focus is network engineering, I also have interests in othe
   <img src="https://img.shields.io/badge/Language-Rust-%23f74c00?style=flat-square" alt="Language | Rust">
   <img src="https://img.shields.io/badge/Rust_IDE-RustRover-%23f74c00?style=flat-square" alt="Rust IDE | RustRover">
   <img src="https://img.shields.io/badge/Game_Engine-Bevy-%23232326?style=flat-square" alt="Game Engine | Bevy">
+  <img src="https://img.shields.io/badge/GUI_Framework-egui-%23232326?style=flat-square" alt="GUI Framework | egui">
 </div>
 
 <div display="inline-block">
