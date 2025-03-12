@@ -10,7 +10,8 @@ Although my academic focus is network engineering, I also have interests in othe
   <img src="https://img.shields.io/badge/Language-Rust-%23f74c00?style=flat-square" alt="Language | Rust">
   <img src="https://img.shields.io/badge/Rust_IDE-RustRover-%23f74c00?style=flat-square" alt="Rust IDE | RustRover">
   <img src="https://img.shields.io/badge/Game_Engine-Bevy-%23232326?style=flat-square" alt="Game Engine | Bevy">
-  <img src="https://img.shields.io/badge/GUI_Framework-egui-%23232326?style=flat-square" alt="GUI Framework | egui">
+  <img src="https://img.shields.io/badge/Immediate_GUI-egui-%23232326?style=flat-square" alt="Immediate GUI | egui">
+  <img src="https://img.shields.io/badge/Retained_GUI-iced-%232139ff?style=flat-square" alt="Retained GUI | iced">
 </div>
 
 <div display="inline-block">
