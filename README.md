@@ -2,8 +2,6 @@
 
 On my GitHub, I typically release experimental/learning projects I've been working on or tools I've developed that might be helpful to someone else. I primarily work with Python and Rust. 🦀❤️🐍
 
-Although my academic focus is network engineering, I also have interests in other areas, including application development, game development, data analysis, and cryptography. I will most likely be working on projects related to these interests.
-
 ## Development Toolkit
 
 <div display="inline-block">
