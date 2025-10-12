@@ -17,7 +17,7 @@ On my GitHub, I typically release experimental/learning projects I've been worki
 
 <div display="inline-block">
   <img src="https://img.shields.io/badge/OS_Platform-Windows_10-%23107C10?style=flat-square" alt="OS Platform | Windows 10">
-  <img src="https://img.shields.io/badge/OS_Platform-Linux-%23072C61?style=flat-square" alt="OS Platform | GNU/Linux">
+  <img src="https://img.shields.io/badge/OS_Platform-GNU%2FLinux-%23072C61?style=flat-square" alt="OS Platform | GNU/Linux">
 </div>
 
 ## Certifications
