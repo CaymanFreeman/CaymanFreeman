@@ -8,6 +8,7 @@ I typically release experimental/learning projects I've been working on or tools
   <img src="https://img.shields.io/badge/Language-Rust-%23f74c00?style=flat-square" alt="Language | Rust">
   <img src="https://img.shields.io/badge/Rust_IDE-RustRover-%23f74c00?style=flat-square" alt="Rust IDE | RustRover">
   <img src="https://img.shields.io/badge/Game_Engine-Bevy-%23232326?style=flat-square" alt="Game Engine | Bevy">
+  <img src="https://img.shields.io/badge/User_Interface-egui-%23232326?style=flat-square" alt="User Interface | egui">
 </div>
 
 <div display="inline-block">
